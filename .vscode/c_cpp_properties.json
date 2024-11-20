@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/libraries/**",
+                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include",
+                "C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/5.4.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/Program Files/Arduino/hardware/tools/avr/bin/avr-gcc.exe",
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
